@@ -1,0 +1,11 @@
+library Project3;
+
+uses
+  funcs in 'funcs.pas';
+
+exports 
+  AddFunction;
+
+begin
+end.
+ 
